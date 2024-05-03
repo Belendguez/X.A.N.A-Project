@@ -1,0 +1,69 @@
+{
+    "items": [
+      {
+        "name": "Special Event Coupon",
+        "description": "Allows access to a special in-game event.",
+        "price": 500
+      },
+      {
+        "name": "Summoning Scroll",
+        "description": "Holds the contract of a creature.",
+        "price": 1000
+      },
+      {
+        "name": "Chakra Crystal",
+        "description": "Allows you to unlock a new chakra nature or change one you already own.",
+        "price": 1000
+      },
+      {
+        "name": "D Rank Normal Jutsu Coupon",
+        "description": "Allows the purchase of a normal D RANK jutsu.",
+        "price": 50
+      },
+      {
+        "name": "C Rank Normal Jutsu Coupon",
+        "description": "Allows the purchase of a normal C RANK jutsu.",
+        "price": 100
+      },
+      {
+        "name": "B Rank Normal Jutsu Coupon",
+        "description": "Allows the purchase of a normal B RANK jutsu.",
+        "price": 200
+      },
+      {
+        "name": "A Rank Normal Jutsu Coupon",
+        "description": "Allows the purchase of a normal A RANK jutsu.",
+        "price": 300
+      },
+      {
+        "name": "S Rank Normal Jutsu Coupon",
+        "description": "Allows the purchase of a normal S RANK jutsu.",
+        "price": 500
+      },
+      {
+        "name": "D Rank Clan Jutsu Coupon",
+        "description": "Allows the purchase of a clan D RANK jutsu.",
+        "price": 75
+      },
+      {
+        "name": "C Rank Clan Jutsu Coupon",
+        "description": "Allows the purchase of a clan C RANK jutsu.",
+        "price": 150
+      },
+      {
+        "name": "B Rank Clan Jutsu Coupon",
+        "description": "Allows the purchase of a clan B RANK jutsu.",
+        "price": 300
+      },
+      {
+        "name": "A Rank Clan Jutsu Coupon",
+        "description": "Allows the purchase of a clan A RANK jutsu.",
+        "price": 450
+      },
+      {
+        "name": "S Rank Clan Jutsu Coupon",
+        "description": "Allows the purchase of a clan S RANK jutsu.",
+        "price": 750
+      }
+    ]
+  }

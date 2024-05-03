@@ -1,0 +1,44 @@
+{
+    "items":[
+    {
+      "name": "Basic Weapon",
+      "description": "A basic weapon. It has no special properties but it's better than a stick.",
+      "price": 500
+    },
+    {
+      "name": "Secondary Weapon",
+      "description": "Secondary weapons such as kunais, needles, or shurikens.",
+      "price": 300
+    },
+    {
+      "name": "Chakra Weapon",
+      "description": "A weapon with basic appearance but capable of conducting chakra.",
+      "price": 1000
+    },
+    {
+      "name": "Basic Camping Scroll",
+      "description": "A basic camping tent and some materials for making fire. At least you aren't sleeping on the floor",
+      "price": 150
+    },
+    {
+      "name": "Advanced Camping Scroll",
+      "description": "For camping comfortable and with style.",
+      "price": 250
+    },
+    {
+      "name": "Seal Tags",
+      "description": "Pre-made and ready-to-use seal tags. (Make sure to indicate their type in your inventory)",
+      "price": 100
+    },
+    {
+      "name": "Bribe",
+      "description": "A small bribe prepared beforehand. You never know when you're going to need them to look the other way.",
+      "price": 1000
+    },
+    {
+      "name": "Inn Token",
+      "description": "Your proof of your reservation for a room at the local hotel.",
+      "price": 200
+    }
+  ]
+}
